@@ -4,3 +4,10 @@ body {
     margin: 0px;
     font-family: "Protest Strike",sans-serif
 }
+
+header {
+    border-bottom: solid 2px #05faee;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(156, 3, 105)
+}
